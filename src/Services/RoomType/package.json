@@ -1,0 +1,14 @@
+{
+  "name": "roomtype",
+  "version": "1.0.0",
+  "description": "REST API to retrieve room type information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kent Kingery",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
